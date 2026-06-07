@@ -1,4 +1,4 @@
-# 📚 Lern-Flow
+# 📚 Learn-Flow
 
 This project is a web application built with Next.js that provides a customizable course library. It allows users to browse, search, and interact with a wide range of courses. The platform features user authentication, a community forum, and visually appealing UI components. It aims to provide a seamless and engaging learning experience.
 
